@@ -1,0 +1,34 @@
+.export-main{
+    margin: 3%;
+}
+.export-head{
+    text-align: center;
+}
+.export-form{
+    padding: 1%;
+    margin-top: 6%;
+}
+.export-form-group{
+    padding: 1%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#headers-select {
+    width: 25%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+#headers-select option {
+    padding: 5px;
+  }
+  
+#headers-select option:checked {
+    background-color: #302b2b; /* Highlight color for selected options */
+    color: #948b8b; /* Text color for selected options */
+  }
+  #headers-select option:hover {
+    background-color: #404040; /* Hover color for options */
+  }

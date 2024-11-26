@@ -1,0 +1,20 @@
+.table-main{
+    margin: auto;
+    margin-top: 2%;
+ 
+}
+.table {
+    margin: 1em;
+    width: 90%;
+}
+.table-head{
+    border-bottom: 1px solid gainsboro;
+}
+.table-col{
+    border-bottom: 1px solid gainsboro;
+    padding: 1%;
+}
+.edit-img{
+    width: 15px;
+    cursor: pointer;
+}
